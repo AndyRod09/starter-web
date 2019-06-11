@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andy Rod    andy.rod.0903@gmail.com
 
 # THANKS
 
